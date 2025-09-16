@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
         if i >= 50:
             break
-        print(f"{i+1}: {p}") #f"{i+1}: {p}"
+        print(f"{i+1}: {p}")
 
     print("\nЧас генерування перестановок")
 
